@@ -1,4 +1,4 @@
-zhihu-tip
+Zhihu Tip
 =========
 
 Trying out Ping++
